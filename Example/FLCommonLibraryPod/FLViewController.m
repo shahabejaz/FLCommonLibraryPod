@@ -7,7 +7,7 @@
 //
 
 #import "FLViewController.h"
-#import <FLTest.h>
+#import <FLCommonLibraryPod/FLTest.h>
 
 @interface FLViewController ()
 
@@ -19,7 +19,7 @@
 {
     [super viewDidLoad];
     FLTest *test = [FLTest new];
-    
+    [test podTest];
     // Do any additional setup after loading the view, typically from a nib.
 }
 

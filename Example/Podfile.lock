@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.0.4)
   - FBSnapshotTestCase/SwiftSupport (2.0.4):
     - FBSnapshotTestCase/Core
-  - FLCommonLibraryPod (1.0.0)
+  - FLCommonLibraryPod (1.0.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -16,6 +16,6 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: d94cf34841c9e77390e29009e8e2713479d48753
-  FLCommonLibraryPod: 5bb78ecb829f6aa9bb38b897b94aca121d4625d4
+  FLCommonLibraryPod: a39f67eca552d461c9b4fde819539db4908e9e22
 
 COCOAPODS: 0.39.0
