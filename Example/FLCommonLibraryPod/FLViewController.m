@@ -7,6 +7,8 @@
 //
 
 #import "FLViewController.h"
+#import <FLTest.h>
+
 @interface FLViewController ()
 
 @end

@@ -1,16 +1,16 @@
 {
   "name": "FLCommonLibraryPod",
-  "version": "0.1.0",
-  "summary": "A short description of FLCommonLibraryPod.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/FLCommonLibraryPod",
+  "version": "1.0.0",
+  "summary": "This a test pod for blog",
+  "description": "This is the default description",
+  "homepage": "https://github.com/shahabejaz/FLCommonLibraryPod",
   "license": "MIT",
   "authors": {
     "Shahab Ejaz": "sejaz@folio3.com"
   },
   "source": {
     "git": "https://github.com/<GITHUB_USERNAME>/FLCommonLibraryPod.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "7.0"
