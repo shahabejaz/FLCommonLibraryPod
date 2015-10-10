@@ -7,7 +7,6 @@
 //
 
 #import "FLViewController.h"
-
 @interface FLViewController ()
 
 @end
@@ -17,7 +16,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    FLTest *test = [FLTest new];
+    
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
